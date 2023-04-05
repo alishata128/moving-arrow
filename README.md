@@ -1,2 +1,2 @@
 # moving-arrow
-a concept to evolve
+a good concept to evolve
